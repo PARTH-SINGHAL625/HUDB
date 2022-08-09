@@ -1,0 +1,3 @@
+SO this code here is for my site in which you can invite my discord bot to your server.just go to web page and invite t from the button there...
+
+this code is differentiated in two files,one where the actual code is[with name of "index.html"] and a "style.css" for the CSS code of this code
